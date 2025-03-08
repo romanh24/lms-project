@@ -12,6 +12,13 @@ A modern Learning Management System (LMS) built with Next.js, TypeScript, and Fi
 - **Responsive Design**: Mobile-first approach with Tailwind CSS
 - **Dark Mode**: Full support for light and dark themes
 
+## Demo Videos
+
+Check out these video demonstrations of the platform:
+
+- [User Experience Demo](https://youtu.be/dFEwtRc3BUM)
+- [Admin Dashboard Demo](https://youtu.be/QrcEMy0jue0)
+
 ## Tech Stack
 
 - **Frontend**: Next.js 15 (App Router), React, TypeScript
