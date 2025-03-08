@@ -34,7 +34,7 @@ A modern Learning Management System (LMS) built with Next.js, TypeScript, and Fi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/repo/lms-project.git
+   git clone https://github.com/romanh24/lms-project.git
    cd lms-project
    ```
 
@@ -69,6 +69,18 @@ A modern Learning Management System (LMS) built with Next.js, TypeScript, and Fi
    ```
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+## Test Credentials
+
+Use these credentials to test the application:
+
+### Admin Account
+- Email: admin@test.com
+- Password: 123456
+
+### User Account
+- Email: user@test.com
+- Password: 123456
 
 ## Project Structure
 

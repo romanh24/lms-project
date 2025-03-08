@@ -147,6 +147,22 @@ export default function LoginPage() {
                 Register
               </Link>
             </div>
+            
+            <div className="mt-6 p-4 border border-dashed rounded-md border-muted-foreground/50">
+              <h3 className="text-sm font-medium mb-2">Test Credentials</h3>
+              <div className="grid grid-cols-2 gap-2 text-xs">
+                <div>
+                  <p className="font-semibold">Admin:</p>
+                  <p>admin@test.com</p>
+                  <p>123456</p>
+                </div>
+                <div>
+                  <p className="font-semibold">User:</p>
+                  <p>user@test.com</p>
+                  <p>123456</p>
+                </div>
+              </div>
+            </div>
           </CardFooter>
         </Card>
       </div>
